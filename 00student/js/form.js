@@ -1,5 +1,6 @@
 //전역변수
 const API_BASE_URL = "http://localhost:8080";
+
 //현재 Update 중인 학생의 ID
 var editingStudentId = null;
 
